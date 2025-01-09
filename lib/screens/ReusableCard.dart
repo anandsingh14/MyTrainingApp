@@ -180,57 +180,6 @@ class ReusableCard extends StatelessWidget {
               ],
             ),
           ),
-
-          // Column(
-          //   // mainAxisAlignment: MainAxisAlignment.end,
-          //   // Align text at the bottom
-          //   // crossAxisAlignment: CrossAxisAlignment.center,
-          //   children: <Widget>[
-          //
-          //     // Container(
-          //     //   color: Colors.black.withOpacity(0.5),
-          //     //   child: Padding(
-          //     //     padding: const EdgeInsets.all(8.0),
-          //     //     child: Column(
-          //     //       crossAxisAlignment: CrossAxisAlignment.start,
-          //     //       children: <Widget>[
-          //     //         Container(height: 5),
-          //     //         Text(
-          //     //           training.title,
-          //     //           style: Theme.of(context)
-          //     //               .textTheme
-          //     //               .headline6!
-          //     //               .copyWith(
-          //     //             color: textcolor,
-          //     //           ),
-          //     //         ),
-          //     //         Container(height: 5),
-          //     //         Text(
-          //     //           training.trainerName,
-          //     //           style: Theme.of(context)
-          //     //               .textTheme
-          //     //               .bodyText2!
-          //     //               .copyWith(
-          //     //             color: textcolor,
-          //     //           ),
-          //     //         ),
-          //     //       ],
-          //     //     ),
-          //     //   ),
-          //     // ),
-          //     // Padding(
-          //     //   padding: const EdgeInsets.all(15),
-          //     //   child: Row(
-          //     //     crossAxisAlignment: CrossAxisAlignment.start,
-          //     //     children: <Widget>[
-          //     //       Expanded(
-          //     //         child:
-          //     //       ),
-          //     //     ],
-          //     //   ),
-          //     // ),
-          //   ],
-          // ),
         ),
       ),
     );
